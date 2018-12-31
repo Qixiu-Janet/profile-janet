@@ -37,24 +37,24 @@ weight = 7
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
-  description = "80%"
+  description = "88%"
  
  [[feature]]
-  icon = "html5"
+  icon = "css3"
   icon_pack = "fab"
-  name = "HTML"
-  description = "80%"
+  name = "CSS"
+  description = "88%"
 
  [[feature]]
-  icon = "html5"
+  icon = "database"
   icon_pack = "fab"
-  name = "HTML"
-  description = "80%"
+  name = "Data Base"
+  description = "89%"
   
   [[feature]]
-  icon = "html5"
+  icon = "chart-network"
   icon_pack = "fab"
-  name = "HTML"
+  name = "Data Visualition"
   description = "80%"
 
 
