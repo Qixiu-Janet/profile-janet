@@ -32,4 +32,6 @@ weight = 5
 # Biography
 
 
-Janet Zhang is a software engineer of the PMU & System Analytics Group at GEIRI North America (GEIRINA). She is a enthusiastic full-stack web developer with 4 years strong experience in web application development. Qualified technical skills in Front-end UI/UX building and data visualization using HTML5/CSS/JavaScript. Strong hands-on experience in algorithm implements and business logic implements. Familiar with all kinds of rational database. Expert in object-oriented programing languages like Java and C++. Strong hands-on experience in software configuration, integration, and implementation on both Linux and Windows. Efficiently conducts all phases of software development lifecycle to ensure projects are delivered on-time and within budget. 
+Janet Zhang is a software engineer of the PMU & System Analytics Group at GEIRI North America (GEIRINA). She is a enthusiastic full-stack web developer with 4 years strong experience in web application development. Qualified technical skills in Front-end UI/UX building and data visualization using HTML5/CSS/JavaScript. Strong hands-on experience in algorithm implements and business logic implements. Familiar with all kinds of rational database.
+
+Expert in object-oriented programing languages like Java and C++. Strong hands-on experience in software configuration, integration, and implementation on both Linux and Windows. Efficiently conducts all phases of software development lifecycle to ensure projects are delivered on-time and within budget. 
