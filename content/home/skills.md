@@ -48,11 +48,11 @@ weight = 7
  [[feature]]
   icon = "database"
   icon_pack = "fab"
-  name = "Data Base"
+  name = "DataBase"
   description = "89%"
   
   [[feature]]
-  icon = "chart-network"
+  icon = "chart-pie"
   icon_pack = "fab"
   name = "Data Visualition"
   description = "80%"
