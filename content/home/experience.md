@@ -31,21 +31,5 @@ date_format = "January 2006"
   * WEB Application Build, Design, Implement
   * Front-End Engineering
   * Application Deploying
-
-[[experience]]
-  title = "Software Engineer"
-  company = " GEIRI North America (GEIRINA)"
-  company_url = "https://www.geirina.net/"
-  location = "California"
-  date_start = "2016-03-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * WEB Application Build, Design, Implement
-  * Front-End Engineering
-  * Application Deploying
-  """
-
-
-+++
+"""
+PMU front-end design
